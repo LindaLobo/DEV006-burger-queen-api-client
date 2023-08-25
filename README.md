@@ -19,7 +19,7 @@ Es una página creada para el cliente del Restaurante Burger Queen, en la cual p
 * [CSS]
 * [JAVASCRIPT]
 * [REACT]
-* La base de datos depende del otro proyecto: 
+* La base de datos depende del otro proyecto: https://github.com/LindaLobo/Burger-Api/
 
 ## Edición
 
